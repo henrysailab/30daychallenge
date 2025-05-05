@@ -12,6 +12,6 @@ ChatGPT • GPT API • Make (Integromat) • Tally.so • Notion • Canva • 
 
 ## 📬 Get In Touch
 Want to collaborate or see how this challenge evolves?
-Connect with me on [Twitter](https://twitter.com/) or email me at [your-email@example.com].
+Connect with me on X  or email me at henrysailab@gmail.com 
 
 > Build fast. Learn faster. Make it useful.

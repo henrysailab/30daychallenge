@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Henry
 
-I'm currently in the middle of a 30-day AI challenge — building from scratch with no budget, no experience, and no excuses. The mission: turn simple ideas into smart tools that save time and generate income using only AI and free resources.
+I'm currently on a 30-day AI challenge — building from scratch with no budget, no experience, and no excuses. The mission: turn simple ideas into smart tools that save time and generate income using only AI and free resources.
 
 ## 💡 What I'm Working On
 - ✅ Fast-launch AI content service (built in 24 hours using ChatGPT + Tally)

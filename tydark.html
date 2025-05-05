@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thank You – Henry's AI Lab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        :root {
+            --primary: #4F46E5; /* Indigo */
+            --accent: #FBBF24;  /* Amber/Gold */
+            --background: #111827; /* Dark Gray */
+            --surface: #1F2937; /* Slightly lighter gray */
+            --text: #F9FAFB; /* Light text */
+            --muted: #9CA3AF; /* Muted text */
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--background);
+            margin: 0;
+            padding: 40px;
+            color: var(--text);
+        }
+
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: var(--surface);
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+
+        h1 {
+            color: var(--accent);
+        }
+
+        .logo {
+            max-width: 120px;
+            margin-bottom: 20px;
+        }
+
+        .banner {
+            width: 100%;
+            max-height: 180px;
+            object-fit: cover;
+            border-radius: 12px 12px 0 0;
+            margin-bottom: 30px;
+        }
+
+        .cta {
+            margin-top: 30px;
+            background: #374151;
+            padding: 20px;
+            border-left: 4px solid var(--accent);
+            border-radius: 8px;
+        }
+
+        input[type="text"], button {
+            margin-top: 10px;
+            padding: 10px;
+            width: 100%;
+            font-size: 1rem;
+            border: 1px solid #4B5563;
+            border-radius: 6px;
+            background-color: #111827;
+            color: var(--text);
+        }
+
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #4338CA;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9rem;
+            color: var(--muted);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://via.placeholder.com/120x120.png?text=Logo" alt="Henry's AI Lab Logo" class="logo">
+        <img src="https://via.placeholder.com/800x180.png?text=Banner+Image" alt="Banner Image" class="banner">
+        <h1>✅ Thank You – You’re In!</h1>
+        <p>Your payment was successful and your AI-powered content pack will be delivered within <strong>24 hours</strong>.</p>
+        <p>If anything changes or you need to reach out, email me at <a href="mailto:your-email@example.com" style="color: var(--accent);">your-email@example.com</a>.</p>
+
+        <div class="cta">
+            <p><strong>Want a bonus post?</strong><br>
+            Refer a friend and if they order using your name, I’ll add a 6th post for free.</p>
+            <form>
+                <input type="text" placeholder="Friend's name or email (optional)">
+                <button type="submit">Submit Referral</button>
+            </form>
+        </div>
+
+        <div class="footer">
+            &copy; 2025 Henry's AI Lab. All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
